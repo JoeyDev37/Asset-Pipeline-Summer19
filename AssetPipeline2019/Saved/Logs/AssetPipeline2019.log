@@ -597,3 +597,50 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.06.04-23.04.53:477][309]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (windmill-base)
 [2019.06.04-23.04.56:371][569]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.06.04-23.05.13:793][465]LogSlate: Took 0.005625 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.06.04-23.11.53:755][102]LogAssetEditorManager: Opening Asset editor for Material /Game/Materials/mm_windmill_top.mm_windmill_top
+[2019.06.04-23.11.53:768][102]LogMaterial: Display: Missing cached shader map for material mm_windmill_top, compiling. 
+[2019.06.04-23.11.54:312][102]LogMaterial: Display: Missing cached shader map for material mm_windmill_top, compiling. 
+[2019.06.04-23.11.54:333][102]LogMaterial: Display: Missing cached shader map for material mm_windmill_top, compiling. 
+[2019.06.04-23.11.54:364][102]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.06.04-23.11.54:364][102]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.06.04-23.11.54:364][102]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.06.04-23.11.54:364][102]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.06.04-23.11.54:394][102]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2019.06.04-23.11.54:410][102]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2019.06.04-23.11.54:424][102]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.06.04-23.11.54:436][102]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_0, compiling. 
+[2019.06.04-23.11.54:492][102]LogSlate: Took 0.005985 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.06.04-23.11.55:246][156]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.06.04-23.11.55:291][161]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.06.04-23.11.55:306][163]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.06.04-23.11.55:325][165]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.06.04-23.11.55:482][181]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.06.04-23.11.55:521][185]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.06.04-23.11.55:539][187]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.06.04-23.11.55:539][187]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.06.04-23.11.55:675][200]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.06.04-23.11.55:818][214]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.06.04-23.11.56:055][236]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.06.04-23.11.56:117][241]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.06.04-23.11.56:173][245]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.06.04-23.11.56:361][264]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.06.04-23.11.56:394][267]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.06.04-23.11.56:660][288]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.04-23.11.56:680][290]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.06.04-23.11.56:778][298]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.06.04-23.11.56:839][304]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.06.04-23.11.56:959][315]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.06.04-23.11.57:141][328]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.06.04-23.11.57:141][328]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.06.04-23.11.57:156][329]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.06.04-23.11.57:158][329]MaterialEditorStats: Base pass shader: 113 instructions
+[2019.06.04-23.11.57:158][329]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 187 instructions
+[2019.06.04-23.11.57:158][329]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.06.04-23.11.57:158][329]MaterialEditorStats: Texture samplers: 5/16
+[2019.06.04-23.11.57:158][329]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2019.06.04-23.11.57:158][329]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.06.04-23.11.57:298][341]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.06.04-23.11.57:344][345]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.06.04-23.17.17:504][145]LogSlate: Window 'Message' being destroyed
+[2019.06.04-23.19.21:723][410]LogSlate: Window 'Message' being destroyed
+[2019.06.04-23.19.46:974][280]LogSlate: Window 'Message' being destroyed
