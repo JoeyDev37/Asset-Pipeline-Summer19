@@ -1197,3 +1197,162 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.06.19-20.22.37:982][182]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
 [2019.06.19-20.22.38:171][182]LogSavePackage: Moving '../../../../../../Users/u0790967/Documents/GitHub/Asset-Pipeline-Summer19/AssetPipeline2019/Saved/CityBlockF7A8E8F1474308318CFCF6AFA904D58D.tmp' to '../../../../../../Users/u0790967/Documents/GitHub/Asset-Pipeline-Summer19/AssetPipeline2019/Content/Scenes/CityBlock.umap'
 [2019.06.19-20.22.38:212][182]LogSavePackage: Moving '../../../../../../Users/u0790967/Documents/GitHub/Asset-Pipeline-Summer19/AssetPipeline2019/Saved/CityBlock_BuiltDataD1CAE4784CD59651A1DBF8A75BCA2494.tmp' to '../../../../../../Users/u0790967/Documents/GitHub/Asset-Pipeline-Summer19/AssetPipeline2019/Content/Scenes/CityBlock_BuiltData.uasset'
+[2019.06.19-20.23.53:406][617]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.19-20.24.11:420][405]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.19-20.24.11:430][405]LogAssetTools: Warning: Failed to import 'C:\Users\u0790967\Desktop\mannequin-5.mtl'. Unknown extension 'mtl'.
+[2019.06.19-20.28.39:794][469]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.19-20.28.42:111][580]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.19-20.28.42:120][580]LogAssetTools: Warning: Failed to import 'C:\Users\u0790967\Desktop\waving-mann.mtl'. Unknown extension 'mtl'.
+[2019.06.19-20.28.46:878][734]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\u0790967\Desktop\waving-mann.obj)
+[2019.06.19-20.28.46:911][734]LogFbx: Loading FBX Scene from C:\Users\u0790967\Desktop\waving-mann.obj
+[2019.06.19-20.28.46:989][734]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.19-20.28.47:004][734]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.19-20.28.48:308][734]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.06.19-20.28.48:467][734]LogFbx: Display: Triangulating static mesh polySurface18
+[2019.06.19-20.28.48:732][734]LogStaticMesh: Building static mesh waving-mann...
+[2019.06.19-20.28.48:829][734]LogStaticMesh: Built static mesh [0.10s] /Game/Models/waving-mann.waving-mann
+[2019.06.19-20.28.48:867][734]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.06.19-20.28.54:228][  6]LogSlate: Window 'Message Log' being destroyed
+[2019.06.19-20.28.54:233][  6]LogSlate: Window 'Message Log' being destroyed
+[2019.06.19-20.28.56:927][188]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.19-20.28.57:128][210]LogActorFactory: Actor Factory created waving-mann
+[2019.06.19-20.28.59:378][365]LogActorFactory: Actor Factory created waving-mann
+[2019.06.19-20.29.01:008][494]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.19-20.29.02:657][675]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.19-20.29.40:151][265]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.19-20.29.50:185][292]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.19-20.29.50:190][292]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\u0790967\Desktop\mannequin-texture.png)
+[2019.06.19-20.29.50:248][292]LogTexture: Display: Building textures: mannequin-texture (AutoDXT, 2048X2048)
+[2019.06.19-20.29.50:444][292]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.19-20.29.53:224][609]LogMaterial: Display: Missing cached shader map for material mannequin-texture_Mat, compiling. 
+[2019.06.19-20.29.58:848][ 76]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.19-20.30.11:605][560]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.19-20.30.11:635][560]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2019.06.19-20.30.11:826][560]LogSavePackage: Moving '../../../../../../Users/u0790967/Documents/GitHub/Asset-Pipeline-Summer19/AssetPipeline2019/Saved/CityBlock583A56924927F029B8F3C5905DC2D10F.tmp' to '../../../../../../Users/u0790967/Documents/GitHub/Asset-Pipeline-Summer19/AssetPipeline2019/Content/Scenes/CityBlock.umap'
+[2019.06.19-20.30.11:869][560]LogSavePackage: Moving '../../../../../../Users/u0790967/Documents/GitHub/Asset-Pipeline-Summer19/AssetPipeline2019/Saved/CityBlock_BuiltData96E655A44982FB5FF32D629EA1CBD233.tmp' to '../../../../../../Users/u0790967/Documents/GitHub/Asset-Pipeline-Summer19/AssetPipeline2019/Content/Scenes/CityBlock_BuiltData.uasset'
+[2019.06.19-20.30.13:356][727]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.19-20.30.23:539][567]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.06.19-20.30.35:652][505]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.19-20.30.35:679][505]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2019.06.19-20.30.35:863][505]LogSavePackage: Moving '../../../../../../Users/u0790967/Documents/GitHub/Asset-Pipeline-Summer19/AssetPipeline2019/Saved/CityBlock6EBA16BB477DB7FA44D4C2AFB1C517BB.tmp' to '../../../../../../Users/u0790967/Documents/GitHub/Asset-Pipeline-Summer19/AssetPipeline2019/Content/Scenes/CityBlock.umap'
+[2019.06.19-20.30.35:900][505]LogSavePackage: Moving '../../../../../../Users/u0790967/Documents/GitHub/Asset-Pipeline-Summer19/AssetPipeline2019/Saved/CityBlock_BuiltData271B95F7489DDA5EB861968DD3DC5221.tmp' to '../../../../../../Users/u0790967/Documents/GitHub/Asset-Pipeline-Summer19/AssetPipeline2019/Content/Scenes/CityBlock_BuiltData.uasset'
+[2019.06.19-20.30.38:902][684]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Windmill2)
+[2019.06.19-20.30.38:976][684]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.19-20.30.42:959][994]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.06.19-20.30.48:024][273]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (waving-mann)
+[2019.06.19-20.30.48:898][319]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.19-20.32.17:610][567]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (waving-mann)
+[2019.06.19-20.32.36:416][575]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.06.19-20.32.45:288][383]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.19-20.32.45:315][383]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2019.06.19-20.32.45:498][383]LogSavePackage: Moving '../../../../../../Users/u0790967/Documents/GitHub/Asset-Pipeline-Summer19/AssetPipeline2019/Saved/CityBlock22F63666452669636DA39A91AC69028B.tmp' to '../../../../../../Users/u0790967/Documents/GitHub/Asset-Pipeline-Summer19/AssetPipeline2019/Content/Scenes/CityBlock.umap'
+[2019.06.19-20.32.45:536][383]LogSavePackage: Moving '../../../../../../Users/u0790967/Documents/GitHub/Asset-Pipeline-Summer19/AssetPipeline2019/Saved/CityBlock_BuiltData15286E5444528359DFF537A87CC72864.tmp' to '../../../../../../Users/u0790967/Documents/GitHub/Asset-Pipeline-Summer19/AssetPipeline2019/Content/Scenes/CityBlock_BuiltData.uasset'
+[2019.06.19-20.41.44:570][758]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.19-20.41.44:600][758]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2019.06.19-20.41.44:792][758]LogSavePackage: Moving '../../../../../../Users/u0790967/Documents/GitHub/Asset-Pipeline-Summer19/AssetPipeline2019/Saved/CityBlockF3373B2E47A918497EB2C8B70B40AFD2.tmp' to '../../../../../../Users/u0790967/Documents/GitHub/Asset-Pipeline-Summer19/AssetPipeline2019/Content/Scenes/CityBlock.umap'
+[2019.06.19-20.41.44:833][758]LogSavePackage: Moving '../../../../../../Users/u0790967/Documents/GitHub/Asset-Pipeline-Summer19/AssetPipeline2019/Saved/CityBlock_BuiltDataDD7B374F4A2601F44BDA53B9A7235B8E.tmp' to '../../../../../../Users/u0790967/Documents/GitHub/Asset-Pipeline-Summer19/AssetPipeline2019/Content/Scenes/CityBlock_BuiltData.uasset'
+[2019.06.19-20.41.46:099][817]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.19-20.42.05:813][822]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass45)
+[2019.06.19-20.42.06:447][855]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass36)
+[2019.06.19-20.42.07:369][905]Cmd: EDIT COPY
+[2019.06.19-20.42.07:681][923]Cmd: EDIT PASTE
+[2019.06.19-20.42.17:995][554]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.19-20.42.18:026][554]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2019.06.19-20.42.18:210][554]LogSavePackage: Moving '../../../../../../Users/u0790967/Documents/GitHub/Asset-Pipeline-Summer19/AssetPipeline2019/Saved/CityBlockE0E0E379485737412846F1AE31DCD0C7.tmp' to '../../../../../../Users/u0790967/Documents/GitHub/Asset-Pipeline-Summer19/AssetPipeline2019/Content/Scenes/CityBlock.umap'
+[2019.06.19-20.42.18:248][554]LogSavePackage: Moving '../../../../../../Users/u0790967/Documents/GitHub/Asset-Pipeline-Summer19/AssetPipeline2019/Saved/CityBlock_BuiltData2FC438BA49D4E8A6276C8891BE5F215F.tmp' to '../../../../../../Users/u0790967/Documents/GitHub/Asset-Pipeline-Summer19/AssetPipeline2019/Content/Scenes/CityBlock_BuiltData.uasset'
+[2019.06.19-20.42.23:811][872]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.06.19-20.43.40:138][903]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.19-20.44.05:910][501]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\u0790967\Documents\GitHub\SummerAssetPipe\Ben Blackburn\High Arch UVed OBJ.obj)
+[2019.06.19-20.44.05:917][501]LogFbx: Loading FBX Scene from C:\Users\u0790967\Documents\GitHub\SummerAssetPipe\Ben Blackburn\High Arch UVed OBJ.obj
+[2019.06.19-20.44.05:920][501]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.19-20.44.07:409][501]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.06.19-20.44.07:433][501]LogMaterial: Display: Missing cached shader map for material pCube9Mat, compiling. 
+[2019.06.19-20.44.07:446][501]LogFbx: Display: Triangulating static mesh pCube9
+[2019.06.19-20.44.07:466][501]LogStaticMesh: Building static mesh High_Arch_UVed_OBJ...
+[2019.06.19-20.44.07:475][501]LogStaticMesh: Built static mesh [0.01s] /Game/Models/High_Arch_UVed_OBJ.High_Arch_UVed_OBJ
+[2019.06.19-20.44.20:940][ 27]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Models/High_Arch_UVed_OBJ.High_Arch_UVed_OBJ
+[2019.06.19-20.44.23:407][104]LogSlate: Window 'High_Arch_UVed_OBJ' being destroyed
+[2019.06.19-20.44.23:411][104]LogSlate: Window 'High_Arch_UVed_OBJ' being destroyed
+[2019.06.19-20.44.26:570][225]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.19-20.44.26:900][261]LogActorFactory: Actor Factory created High_Arch_UVed_OBJ
+[2019.06.19-20.44.30:263][423]LogActorFactory: Actor Factory created High_Arch_UVed_OBJ
+[2019.06.19-20.44.49:612][929]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (High_Arch_UVed_OBJ)
+[2019.06.19-20.44.50:961][ 46]Cmd: DELETE
+[2019.06.19-20.44.50:961][ 46]Cmd: ACTOR DELETE
+[2019.06.19-20.44.50:965][ 46]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.19-20.44.50:992][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2019.06.19-20.44.50:993][ 46]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2019.06.19-20.45.11:411][321]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\u0790967\Documents\GitHub\SummerAssetPipe\BryetanDean\Arch.obj)
+[2019.06.19-20.45.11:419][321]LogFbx: Loading FBX Scene from C:\Users\u0790967\Documents\GitHub\SummerAssetPipe\BryetanDean\Arch.obj
+[2019.06.19-20.45.11:420][321]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.19-20.45.11:429][321]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.19-20.45.12:712][321]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.06.19-20.45.12:745][321]LogMaterial: Display: Missing cached shader map for material pCube1Mat, compiling. 
+[2019.06.19-20.45.12:758][321]LogFbx: Display: Triangulating static mesh pCube1
+[2019.06.19-20.45.12:777][321]LogStaticMesh: Building static mesh Arch...
+[2019.06.19-20.45.12:779][321]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Arch.Arch
+[2019.06.19-20.45.12:780][321]LogStaticMesh: Warning: Arch has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.06.19-20.45.12:780][321]LogStaticMesh: Warning: Arch has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.06.19-20.45.12:788][321]FBXImport: Warning: Arch has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.06.19-20.45.12:788][321]FBXImport: Warning: Arch has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.06.19-20.45.16:578][535]LogSlate: Window 'Message Log' being destroyed
+[2019.06.19-20.45.16:582][535]LogSlate: Window 'Message Log' being destroyed
+[2019.06.19-20.45.17:724][599]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.19-20.45.17:962][623]LogActorFactory: Actor Factory created Arch
+[2019.06.19-20.45.18:916][700]LogActorFactory: Actor Factory created Arch
+[2019.06.19-20.45.41:051][731]Cmd: DELETE
+[2019.06.19-20.45.41:051][731]Cmd: ACTOR DELETE
+[2019.06.19-20.45.41:055][731]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.19-20.45.41:077][731]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2019.06.19-20.45.41:077][731]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2019.06.19-20.45.41:792][807]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass33)
+[2019.06.19-20.45.42:925][918]Cmd: EDIT COPY
+[2019.06.19-20.45.43:248][949]Cmd: EDIT PASTE
+[2019.06.19-20.45.49:600][590]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.19-20.45.53:345][  1]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.19-20.45.53:555][ 21]LogActorFactory: Actor Factory created High_Arch_UVed_OBJ
+[2019.06.19-20.45.54:202][ 91]LogActorFactory: Actor Factory created High_Arch_UVed_OBJ
+[2019.06.19-20.46.04:252][228]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass110)
+[2019.06.19-20.46.05:218][335]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (High_Arch_UVed_OBJ)
+[2019.06.19-20.46.07:033][505]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass110)
+[2019.06.19-20.46.07:816][582]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (High_Arch_UVed_OBJ)
+[2019.06.19-20.46.45:459][ 97]Cmd: TRANSACTION UNDO
+[2019.06.19-20.46.45:459][ 97]LogEditorTransaction: Undo Scale Actors
+[2019.06.19-20.47.03:647][599]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (track5)
+[2019.06.19-20.47.06:923][877]Cmd: TRANSACTION UNDO
+[2019.06.19-20.47.06:923][877]LogEditorTransaction: Undo Scale Actors
+[2019.06.19-20.47.11:216][218]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (High_Arch_UVed_OBJ)
+[2019.06.19-20.47.49:036][324]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.19-20.48.07:638][669]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.06.19-20.48.23:861][588]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (High_Arch_UVed_OBJ)
+[2019.06.19-20.49.39:452][356]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.06.19-20.50.14:182][449]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.19-20.50.33:714][781]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.19-20.50.33:742][781]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2019.06.19-20.50.33:936][781]LogSavePackage: Moving '../../../../../../Users/u0790967/Documents/GitHub/Asset-Pipeline-Summer19/AssetPipeline2019/Saved/CityBlock50DB6AD641D191C72ED08FAE6A40426C.tmp' to '../../../../../../Users/u0790967/Documents/GitHub/Asset-Pipeline-Summer19/AssetPipeline2019/Content/Scenes/CityBlock.umap'
+[2019.06.19-20.50.33:979][781]LogSavePackage: Moving '../../../../../../Users/u0790967/Documents/GitHub/Asset-Pipeline-Summer19/AssetPipeline2019/Saved/CityBlock_BuiltData85DB8AC848C695067BA068910A4A20F7.tmp' to '../../../../../../Users/u0790967/Documents/GitHub/Asset-Pipeline-Summer19/AssetPipeline2019/Content/Scenes/CityBlock_BuiltData.uasset'
+[2019.06.19-20.51.00:561][716]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass79)
+[2019.06.19-20.51.09:749][563]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.19-20.51.21:841][642]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/woodBlocksContent/water.water
+[2019.06.19-20.51.30:745][467]LogSlate: Window 'Color Picker' being destroyed
+[2019.06.19-20.51.32:078][583]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2019.06.19-20.51.32:089][583]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.06.19-20.51.32:423][583]TextureStreamingBuild: Display: Compiling optional shaders took 0.344 seconds.
+[2019.06.19-20.51.32:461][583]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2019.06.19-20.51.32:477][583]LogSavePackage: Moving '../../../../../../Users/u0790967/Documents/GitHub/Asset-Pipeline-Summer19/AssetPipeline2019/Saved/waterBDF6E6DF44FBE29B62D582A485C1F3E4.tmp' to '../../../../../../Users/u0790967/Documents/GitHub/Asset-Pipeline-Summer19/AssetPipeline2019/Content/woodBlocksContent/water.uasset'
+[2019.06.19-20.51.33:648][687]LogSlate: Window 'water' being destroyed
+[2019.06.19-20.51.33:653][687]LogSlate: Window 'water' being destroyed
+[2019.06.19-20.51.40:488][287]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass26)
+[2019.06.19-20.51.43:277][533]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.19-20.51.47:381][  4]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.19-20.51.52:255][463]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.06.19-20.52.04:494][177]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.19-20.52.04:522][177]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2019.06.19-20.52.04:709][177]LogSavePackage: Moving '../../../../../../Users/u0790967/Documents/GitHub/Asset-Pipeline-Summer19/AssetPipeline2019/Saved/CityBlock218D294B4902E84B91C58FA0ED0A62F5.tmp' to '../../../../../../Users/u0790967/Documents/GitHub/Asset-Pipeline-Summer19/AssetPipeline2019/Content/Scenes/CityBlock.umap'
+[2019.06.19-20.52.04:747][177]LogSavePackage: Moving '../../../../../../Users/u0790967/Documents/GitHub/Asset-Pipeline-Summer19/AssetPipeline2019/Saved/CityBlock_BuiltData18E16F1B434C7A94C6DEE79BADFC2B45.tmp' to '../../../../../../Users/u0790967/Documents/GitHub/Asset-Pipeline-Summer19/AssetPipeline2019/Content/Scenes/CityBlock_BuiltData.uasset'
+[2019.06.19-20.52.31:194][583]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Windmill2)
+[2019.06.19-20.52.31:920][619]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.19-20.56.08:086][941]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.19-20.56.08:114][941]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2019.06.19-20.56.08:303][941]LogSavePackage: Moving '../../../../../../Users/u0790967/Documents/GitHub/Asset-Pipeline-Summer19/AssetPipeline2019/Saved/CityBlockF746C2CD486D78B79F153586B9B991B7.tmp' to '../../../../../../Users/u0790967/Documents/GitHub/Asset-Pipeline-Summer19/AssetPipeline2019/Content/Scenes/CityBlock.umap'
+[2019.06.19-20.56.08:344][941]LogSavePackage: Moving '../../../../../../Users/u0790967/Documents/GitHub/Asset-Pipeline-Summer19/AssetPipeline2019/Saved/CityBlock_BuiltDataF900B61D4D985A072533CD9B18EF1BE2.tmp' to '../../../../../../Users/u0790967/Documents/GitHub/Asset-Pipeline-Summer19/AssetPipeline2019/Content/Scenes/CityBlock_BuiltData.uasset'
